@@ -1,6 +1,6 @@
 # Hi, I'm Richard 👋
 
-🎓 **Computer Science graduate** from the University of British Columbia.
+🎓 B.Sc. Computer Science, University of British Columbia (Class of May 2026).
 
 💻 I'm a Software Engineer with internship experience at **SAP**, **MacroHealth**, and **Optum (UnitedHealth Group)**, where I built backend services, CI/CD infrastructure, distributed systems, and data platforms.
 
