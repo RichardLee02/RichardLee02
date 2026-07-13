@@ -6,7 +6,7 @@
 
 ⚙️ **Interested in:** Backend Engineering • Infrastructure • Distributed Systems • Cloud-Native Applications • AI/ML
 
-🛠️ **Tech Stack:** Java • Scala • Python • Go • PostgreSQL • MongoDB • AWS • Azure • Docker • Jenkins
+🛠️ **Tech Stack:** Java • Scala • Python • PostgreSQL • MongoDB • AWS • Azure • Docker • Jenkins
 
 🚀 **Currently seeking:** New Graduate Software Engineering opportunities in Canada and the United States.
 
