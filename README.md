@@ -4,7 +4,7 @@
 
 💻 I'm a Software Engineer with internship experience at **SAP**, **MacroHealth**, and **Optum (UnitedHealth Group)**, where I built backend services, CI/CD infrastructure, distributed systems, and data platforms.
 
-⚙️ **Interested in:** Backend Engineering • Infrastructure • Distributed Systems • Cloud-Native Applications
+⚙️ **Interested in:** Backend Engineering • Infrastructure • Distributed Systems • Cloud-Native Applications • AI/ML
 
 🛠️ **Tech Stack:** Java • Scala • Python • Go • PostgreSQL • MongoDB • AWS • Azure • Docker • Jenkins
 
